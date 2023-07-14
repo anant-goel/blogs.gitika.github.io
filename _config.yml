@@ -4,7 +4,7 @@
 
 title: Proper Details for Nature Products # the website title (if blank, full name will be used instead)
 first_name: Dr.
-middle_name:Gitika
+middle_name: Gitika
 last_name: Aggarwal
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
